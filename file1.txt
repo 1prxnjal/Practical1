@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My name is Pranjal
+=======
+The file was edited in the Remote Repository
+>>>>>>> 56e285df61906be8d98717f1a7d8b1b10f26d34b
